@@ -1,7 +1,8 @@
 # RollOrHold
-JS powered Dice game
+JS powered Dice game ROH
 
-## Rules
--First to 100 wins.
--Each player has a choice of Roll or Hold (keep your current roll).
--If you roll a 1 you lose your current score.
+## Game Rules
+> - First player to 100 wins.
+> - Each player has a choice of Roll or Hold (keep your current roll).
+> - If you roll a 1 you lose your current score.
+>  *Enjoy!*
