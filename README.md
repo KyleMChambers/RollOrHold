@@ -6,3 +6,5 @@ JS powered Dice game ROH
 > - Each player has a choice of Roll or Hold (keep your current roll).
 > - If you roll a 1 you lose your current score.
 >  *Enjoy!*
+
+![Roll or Hold](/rollorhold.png)
