@@ -7,6 +7,4 @@ JS powered Dice game ROH
 > - If you roll a 1 you lose your current score.
 >  *Enjoy!*
 
-![Roll or Hold](/rollorhold.png)
-
-![Tableau]()
+![Roll or Hold](https://raw.githubusercontent.com/KyleMChambers/RollOrHold/main/rollorhold.PNG)
